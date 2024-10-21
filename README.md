@@ -125,7 +125,3 @@ End Sub
 3. **Run the macros** as needed by pressing `Alt + F8` and selecting the macro name.
 
 These VBA scripts help automate the creation of new sheets, management of hyperlinks, and updating of specific cells. This makes the file easier to use for ongoing inventory tracking and management.
-
----
-
-You can copy and paste this directly into your GitHub README file. Let me know if you need any more modifications!
