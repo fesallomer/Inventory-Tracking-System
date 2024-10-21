@@ -8,7 +8,7 @@ This Excel workbook serves as an **inventory tracking system**, where each sheet
 - **Each sheet** corresponds to a unique part or product code, enabling organized tracking of items.
 - The first sheet, named `"ADD(ACTUAL)"`, serves as the **primary or summary sheet**, where new data or item adjustments can be inputted.
 - Other sheets store detailed information about specific items or part numbers, potentially including **quantities**, **pricing**, or **availability**.
-- Some sheets are marked with special labels like `™` or `(FT)` to signify certain classifications, such as **trademarked items** or specific **categories** of products.
+- Some sheets are marked with special labels like `™` or `(FT)` to signify certain classifications, such as **Fluteck** and **Tongmayong**.
 
 ## VBA Code for Automated Operations
 
